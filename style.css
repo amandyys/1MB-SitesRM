@@ -1,1 +1,26 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+body {
+  color: blue;
+}
 
+h1 {
+  color: dark-blue;
+}
+
+/p {
+  text-align: justify;
+}
+h1 {
+  text-align: center;
+}
+h2 {
+  text-align: center;
+}
+h3 {
+  text-align: center;
+}
+
+</style>
